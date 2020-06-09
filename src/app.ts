@@ -4,8 +4,7 @@ import mongoose from 'mongoose'
 
 import routes from './routes'
 
-const mongooseURI = 'mongodb+srv://fagner_sales:2f0a1g1n2e5r12@node-rest-tutorial-geqjm.gcp.mongodb.net/tsnode?retryWrites=true&w=majority'
-
+const mongooseURI = 'URL Connection for Mongoose'
 class App {
     public express: express.Application
 
